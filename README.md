@@ -1,2 +1,20 @@
-# SpellingApp
-Flash Card App to help with spelling
+# Flutter flashcards
+A simple flashcards app. 
+
+For details, please read my [Medium article](https://medium.com/@zhijjjj/build-a-flashcard-app-with-flutter-d2e71f47fd4e).
+
+# Screenshots
+![flashcards](https://user-images.githubusercontent.com/2715151/56785061-7b825980-67c1-11e9-8e63-546cd1219f82.gif)
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
